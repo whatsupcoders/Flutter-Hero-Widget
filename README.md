@@ -1,16 +1,41 @@
 # flutter_hero_app
 
-A new Flutter application.
+Flutter Tutorial - Flutter Hero Widget
+Flutter Tutorial - Flutter Hero Widget Video series can be watched here https://youtu.be/mgSB5r11_Xw
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+we will learn how to use the Flutter Hero Widget and I have also included a demo Address Book page.
+ 
+How to implement Circle Avatar you can watch my video 
+https://www.youtube.com/watch?v=tSO32mSzStQ
 
-A few resources to get you started if this is your first Flutter project:
+How to implement ListView you can watch my video 
+https://www.youtube.com/watch?v=6C5qvdUEfNc
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+For the Details page, you can watch my video 
+https://www.youtube.com/watch?v=tBFPtld1AJM
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-Hero-Widget/blob/master/assets/Screenshot_1561594973.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                     <img src="https://github.com/whatsupcoders/Flutter-Hero-Widget/blob/master/assets/Screenshot_1561594975.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-Hero-Widget/blob/master/assets/Flutter_hero_widget.gif" width="200"/>
+            </td>
+        </tr>
+  </table>
+  </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+
+FOLLOW ME HERE:
+
+Facebook: https://www.facebook.com/whatsupcoders <br />
+Twitter: https://www.twitter.com/whatsupcoders
